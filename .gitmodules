@@ -1,0 +1,6 @@
+[submodule "widgets/awesome-wm-widgets"]
+	path = widgets/awesome-wm-widgets
+	url = https://github.com/streetturtle/awesome-wm-widgets
+[submodule "icons/arc-icon-theme"]
+	path = icons/arc-icon-theme
+	url = https://github.com/horst3180/arc-icon-theme
